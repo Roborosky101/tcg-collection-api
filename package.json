@@ -1,0 +1,13 @@
+json
+
+{
+  "name": "tcg-collection-api",
+  "version": "1.0.0",
+  "description": "API proxy for Pokemon TCG",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Build complete'"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
